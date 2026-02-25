@@ -98,5 +98,5 @@ Procedimientos que usan **SQL dinámico** con `PREPARE`/`EXECUTE`, transacciones
 
 ## Autor
 
-- **Edwind**
+- **Valentina Mancilla**
 
